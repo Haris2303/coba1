@@ -2,3 +2,5 @@ list harian
   1. Belanja
   2. Mandi
   3. Tidur
+  4. Makan
+  5. Ngegame
