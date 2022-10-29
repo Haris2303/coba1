@@ -1,0 +1,4 @@
+list harian
+  1. Belanja
+  2. Mandi
+  3. Tidur
