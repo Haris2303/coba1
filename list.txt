@@ -1,4 +1,6 @@
 list harian
   1. Belanja
   2. Mandi
-  3. Tidur
+  3. Turu
+  4. makan
+  
